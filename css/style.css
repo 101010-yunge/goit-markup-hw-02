@@ -34,7 +34,7 @@ li {
     font-size: 18px;
     font-weight: 700;
     line-height: 1.17;
-    letter-spacing: 0.03em;
+    letter-spacing: 0.02em;
     text-transform: uppercase;
     color: #4D5AE5;
 }
@@ -102,7 +102,7 @@ address {
 }
 
 
-.section-our-portfolio {
+.section-portfolio {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
