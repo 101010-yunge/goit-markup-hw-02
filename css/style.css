@@ -15,14 +15,18 @@ li {
 
 .section-promo {
     background-color: #2E2F42;
-    font-size: 56px;
-    line-height: 1.07;
+    }
+.section-our {
+    background-color: #F4F4FD;
+}
+
+.section-team {
+    font-size: 36px;
+    line-height: 1.11;
     text-align: center;
     letter-spacing: 0.02em;
-    color: #ffffff;
-}
-.section-team {
-    background-color: #F4F4FD;
+    text-transform: capitalize;
+    color: #2e2f42;
 }
 
 .logo-logo {
@@ -61,7 +65,7 @@ address {
     color: #434455;
 }
 
-.promo title {
+.promo-title {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -73,7 +77,7 @@ address {
     background-color: #4d5ae5;
     font-weight: 500;
     line-height: 1.5;
-    letter-spacing: 0.04em;
+    letter-spacing: 0.02em;
     color: #fff;
     cursor: pointer;
 }
